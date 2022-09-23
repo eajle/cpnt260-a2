@@ -1,0 +1,24 @@
+body {background-color: #ffffff;}
+a {
+    color: #000000;
+    text-decoration: none;
+    
+  }
+
+a :hover {background-color:#e0e8ff;}
+
+.card {border-style: solid; border-width: thin; max-width: 45%; min-width: 60%;}
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+object-fit: contain;
+clip-path: circle(40%);
+}
+
+p {font-family:Verdana;
+text-align: center;}
+
+h3 {font-family:Verdana;
+text-align: center;}
