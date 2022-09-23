@@ -1,0 +1,8 @@
+a{
+    display: block;
+    width: fit-content;
+    margin: auto;
+}
+
+article :hover {background-color:aliceblue;
+}
