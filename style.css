@@ -1,0 +1,20 @@
+body {background-color: #ffffff;}
+a {
+    color: #000000;
+    text-decoration: none;
+    
+  }
+
+a :hover {background-color:#e0e8ff;}
+
+.card {border-style: solid; border-width: thick; width: 25%;}
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+object-fit: contain;
+clip-path: circle(35%);
+}
+
+.p {display: block; margin-left: auto; margin-right: auto;}
